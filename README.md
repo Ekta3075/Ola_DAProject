@@ -1,21 +1,25 @@
-🚖 Ola Data Analytics Project
-📌 Overview:-
+# Ola Data Analytics Project
+
+## Overview:-
 This project analyzes ride-hailing data from Ola using SQL and Power BI to gain insights into booking trends, customer behavior, cancellations, and payment preferences.
 The goal is to leverage data-driven insights to improve ride efficiency and customer experience.
 
-📊 Key Features:-
-✅ SQL-Based Data Extraction & Cleaning
-✅ Power BI Dashboard for Visualization
-✅ Ride Booking & Cancellation Trends
-✅ Customer & Driver Performance Analysis
-✅ Revenue & Distance Correlation Insights
+## Key Features:-
+- SQL-Based Data Extraction & Cleaning
+- Power BI Dashboard for Visualization
+- Ride Booking & Cancellation Trends
+- Customer & Driver Performance Analysis
+- Revenue & Distance Correlation Insights
 
-Technologies Used:-
-SQL – Data extraction, filtering, and transformation
-Power BI – Data visualization & dashboard creation
-DAX (Data Analysis Expressions) – Advanced calculations in Power BI
+## Technologies Used:-
+1) **SQL**
+    – Data extraction, filtering, and transformation
+2) **Power BI**
+    – Data visualization & dashboard creation
+3) **DAX (Data Analysis Expressions)**
+    – Advanced calculations in Power BI
 
-🔍 Key Insights from the Analysis:-
+## Key Insights from the Analysis:-
 1) Peak Ride Demand: High during morning & evening rush hours
 2) Most Preferred Vehicle Types: Prime Sedan & Prime SUV for long rides, Auto & Bike for short commutes
 3) Top Cancellation Reasons: High surge pricing, long wait times, & cash payment disputes
